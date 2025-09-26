@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+geopy
+folium
+streamlit-folium
+numpy
+python-dotenv
